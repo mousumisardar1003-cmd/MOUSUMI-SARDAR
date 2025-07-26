@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mousumi Sardar</h1>
-<h3 align="center">A passionate Flutter Developer & AI Enthusiast from India</h3>
+<h3 align="center">A passionate Web Devoloper &Flutter Developer & AI Enthusiast from India</h3>
 
 - 🎓 I’m currently pursuing **BCA**
 - 💻 I love building **Mobile Apps**, **AI Chatbots**, and interactive **Web UIs**
